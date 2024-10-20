@@ -1,2 +1,2 @@
-# potatomod_
+# PotatoMod
 Official PotatoMod Github Page
